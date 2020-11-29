@@ -1,13 +1,6 @@
-<!--
-**Hudda/Hudda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+![counter](https://enrx1kbn6w0ijkr.m.pipedream.net)
 
 ### Hey 👋, I'm Anshul Hudda
-
-![counter](https://enrx1kbn6w0ijkr.m.pipedream.net)
 
 - 🔭 I’m currently working with C++, Python.
 - 👯 I’m looking to collaborate on backend projects.
