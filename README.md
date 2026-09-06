@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Hudda">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=512BD4&center=true&vCenter=true&width=520&lines=Python+%7C+C%2B%2B+%7C+C%23+%2F+.NET;GSoC+'20+%40+Oppia;Building+backends+%26+LLM+tooling;I+love+mathematics." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=512BD4&center=true&vCenter=true&width=520&lines=TypeScript+%7C+Python+%7C+C%2B%2B+%7C+C%23+%2F+.NET;GSoC+'20+%40+Oppia;Building+backends+%26+LLM+tooling;I+love+mathematics." alt="Typing SVG" />
 </a>
 
 <br />
@@ -27,7 +27,7 @@ name:      Anshul Hudda
 location:  New Delhi, India 🇮🇳
 role:      Backend Engineer
 focus:     ["retrieval-augmented generation", "applied LLM tooling"]
-languages: ["Python", "C++", "C#", "TypeScript"]
+languages: ["TypeScript", "Python", "C++", "C#"]
 open_to:   "backend & open-source collaboration"
 fun_fact:  "I love mathematics — it's why competitive programming stuck."
 ```
@@ -38,7 +38,7 @@ fun_fact:  "I love mathematics — it's why competitive programming stuck."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,typescript,django,nodejs,postgres&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=typescript,python,cpp,cs,dotnet,nodejs,django,postgres&theme=dark" alt="Tech stack" />
 <br />
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio&theme=dark" alt="Tooling" />
 
